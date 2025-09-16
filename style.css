@@ -68,12 +68,12 @@ body {
   color: #000;
 }
 
-/* Back: definition */
 .flashcard-back {
-  background-color: #e6f0fa; /* pale blue */
+  background-color: #d0e7ff; /* stronger pale blue for Definition side */
   color: #000;
   transform: rotateY(180deg);
 }
+
 
 .buttons {
   margin-top: 10px;
