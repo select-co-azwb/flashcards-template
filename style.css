@@ -136,3 +136,15 @@ label, select {
 }
 
 }
+/* ===== FINAL OVERRIDES ===== */
+.flashcard .flashcard-front,
+#cardFront {
+  background-color: #ffffff !important; /* word side */
+  color: #000 !important;
+}
+
+.flashcard .flashcard-back,
+#cardBack {
+  background-color: #e6f0fa !important; /* definition side */
+  color: #000 !important;
+}
