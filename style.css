@@ -69,7 +69,7 @@ body {
 }
 
 .flashcard-back {
-  background-color: #d0e7ff; /* stronger pale blue for Definition side */
+  background-color: #e6f0fa; /* stronger pale blue for Definition side */
   color: #000;
   transform: rotateY(180deg);
 }
