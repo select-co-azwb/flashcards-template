@@ -60,6 +60,16 @@ body {
   background-color: white;
   user-select: none;
 }
+.flashcard-front {
+  background-color: white;   /* Word/Phrase side */
+  color: black;              /* Text color */
+}
+
+.flashcard-back {
+  background-color: #e6f0fa; /* Pale blue for Definition side */
+  color: black;              /* Text color */
+}
+
 .flashcard-back {
   transform: rotateY(180deg);
   background-color: #e9f5ff;
